@@ -7,11 +7,13 @@ return  {
 			ensure_installed = {
 				"c",
 				"rust",
-				"vue",
 				"javascript",
 				"typescript",
 				"toml",
 				"lua",
+				"css",
+				"scss",
+				"html",
 			},
 			sync_install = false,
 			highlight = {
