@@ -1,0 +1,15 @@
+{
+  "languageserver": {
+    "oxc": {
+      "command": "oxc_vscode",
+      "filetypes": [
+        "typescript",
+        "javascript"
+      ],
+      "rootPatterns": [
+        ".git"
+      ]
+    }
+  }
+}
+
