@@ -1,2 +1,2 @@
-require("eriks.remap")
 require("eriks.lazy")
+require("eriks.remap")
